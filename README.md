@@ -27,12 +27,6 @@ yarn start
 Open your browser and visit http://localhost:3000 to view the application.
 # Dependencies:  
 
-React: JavaScript library for building user interfaces.
-React DOM: Entry point for React rendering in the browser.
-React Scripts: Toolchain for scripts used with Create React App.
-Web Vitals: Library for measuring real-world web performance metrics.
-Scripts
-start: Start the development server.
-build: Build the production-ready version of the application.
-test: Run tests using the testing framework.
-eject: Eject from create-react-app to have full control over dependencies and configurations.
+React: JavaScript library for building user interfaces.  
+React DOM: Entry point for React rendering in the browser.  
+React Scripts: Toolchain for scripts used with Create React App.  
