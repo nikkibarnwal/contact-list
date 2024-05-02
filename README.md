@@ -17,11 +17,11 @@ Navigate to the project directory:
 cd contact-list  
 # Install dependencies using npm or yarn:  
 npm install  
-# or  
+or  
 yarn install  
 # Start the development server:  
 npm start  
-# or  
+or  
 yarn start  
 
 Open your browser and visit http://localhost:3000 to view the application.
